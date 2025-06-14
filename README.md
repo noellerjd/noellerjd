@@ -3,11 +3,11 @@ I'm Justin, and this is my github page!
 
 I'm a SWE working on my BS in Computer Science.
 
-#Here, you'll see:
+# Here, you'll see:
 
 Many of my projects are primarily built with ReactJS and NextJS. I've worked quite a bit with Python while creating my own personal Discord bot using discord.py, and I've also got some Java experience as well under my tool belt through my classes.
 
-#I'm currently:
+# I'm currently:
 
 Working on a more refined and cleaner portfolio site so I can add it to my resume, but down the pipeline, I have a few different projects I want to work on.
 - Google Extension to set a sleep timer on videos, for when you're watching a long video that you may fall asleep to or in the background. (no more forgetting where you left off!)
