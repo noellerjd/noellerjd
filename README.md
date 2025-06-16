@@ -1,7 +1,7 @@
 ## Hi there ✨
 **I'm Justin, and this is my github page!**
 
-I'm a SWE working on my BS in Computer Science.
+I'm a SWE, located in Colorado, working on my BS in Computer Science.
 
 _I have a passion for learning, and programming is helping me feed my brain!_
 
