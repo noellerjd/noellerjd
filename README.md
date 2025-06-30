@@ -17,7 +17,7 @@ Working on a personal project to learn more about AI implementation, but down th
 - Continuing to refine my [Task Manager App](https://github.com/noellerjd/Task-Manager-App) to make it even more useful; I do still use this one daily.
 - Working on an RPG Minecraft Plugin using Java.
 
-Thanks for stopping by, and feel free to reach out!
+Thank you for stopping by, and feel free to reach out!
 
 <!--
 **noellerjd/noellerjd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
