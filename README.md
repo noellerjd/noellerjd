@@ -11,11 +11,11 @@ Many of my projects are primarily built with ReactJS and NextJS. I've worked qui
 
 ### I'm currently:
 
-Working on a personal project to learn more about AI implementation, but down the pipeline, I have a few different projects I want to work on.
+Working on an MMO Stat Framework Minecraft Plugin using Java, but down the pipeline, I have a few different projects I want to work on.
 - Chrome/Firefox Extension to set a sleep timer on videos, for when you're watching a long video that you may fall asleep to or in the background (No more forgetting where you left off!).
 - Platformer game through JavaScript that I can hopefully implement into my portfolio site (To make browsing it a bit more exciting!).
 - Continuing to refine my [Task Manager App](https://github.com/noellerjd/Task-Manager-App) to make it even more useful; I do still use this one daily.
-- Working on an RPG Minecraft Plugin using Java.
+- Working on a digital dungeon master to learn more about AI implementation.
 
 Thank you for stopping by, and feel free to reach out!
 
